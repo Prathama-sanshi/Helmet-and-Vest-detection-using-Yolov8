@@ -2,6 +2,9 @@
 
 ![image_55_jpg rf 27ae4341a9b9647d73a8929ff7a22369](https://github.com/Prathama-sanshi/Helmet-and-Vest-detection-using-Yolov8/assets/59955378/510616bd-2b96-41f4-aef4-0d352eb94ea6)
 
+<img src="pic.jpeg" width="100" height="100" />
+
+
 # Steps to rum model:
 <ol>
   
@@ -37,17 +40,27 @@ pip install ultralytics
 ```
 </li>
 <li>
-  TO make sure the dependencies are installed we list the requirments.If the we see list of python libraries then we have successfully installed all requirments.
+  To make sure the dependencies are installed we list the requirments.If the we see list of python libraries then we have successfully installed all requirments.
   
   ```bash
  pip list
 ```
 </li>
 <li>
-Copy this Test_yolo_model.py and save it in the folder that we have created in the beggining
+Copy Test_yolo_model.py and save it in the folder that we have created in the beginning. Now download the best.pt model and save it in same folder.Now copy the path best.pt and past it inside Test_yolo_model.py. We are ready to run the code .Past the following code and you will get a popup asking for webcam ,allow and the model will start classifyting image.To quit form algorithm press 'q'.
+  
+  ```bash
+python Test_yolo_model.py
+```
 
 </li>
-  
+  <li>
+    Lastely to deactivate the environment we use this command.
+     ```bash
+~deactivate
+```
+    
+  </li>
   
 
 </ol>
