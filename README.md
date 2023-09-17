@@ -65,6 +65,6 @@ python Test_yolo_model.py
 
 
 
-
-#### For more information on Ultralytics : https://github.com/ultralytics/ultralytics/blob/main/README.md
-#### you can find the requirments.txt in their github repo be sure to check
+###### Resources :
+###### For more information on Ultralytics check: https://github.com/ultralytics/ultralytics/blob/main/README.md
+###### you can find the requirments.txt in their github repo be sure to check.
