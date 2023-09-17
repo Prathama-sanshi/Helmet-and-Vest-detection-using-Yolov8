@@ -67,4 +67,5 @@ python Test_yolo_model.py
 
 ###### Resources :
 ###### For more information on Ultralytics check: https://github.com/ultralytics/ultralytics/blob/main/README.md
-###### you can find the requirments.txt in their github repo be sure to check.
+###### Dataset link : https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety
+
