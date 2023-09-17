@@ -1,6 +1,9 @@
-# Download the dataset from the link given in this repo.
+# Training
 <ol> 
 
+ 
+    
+### <li>Download the dataset from the link given in this repo.</li>
     
   ###    <li>I have stored the dataset in a folder called css-data, you can change the name and give its location as a INPUT_DIR.</li>
 
