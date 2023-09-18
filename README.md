@@ -1,10 +1,11 @@
-# Helmet-and-Vest-detection-using-Yolov8
+# 1. Helmet-and-Vest-detection-using-Yolov8
 ~Author : Pratham Sanshi🤗
 
 ![image_55_jpg rf 27ae4341a9b9647d73a8929ff7a22369](https://github.com/Prathama-sanshi/Helmet-and-Vest-detection-using-Yolov8/assets/59955378/510616bd-2b96-41f4-aef4-0d352eb94ea6)
 
+<hr>
 
-# Steps to run the model:
+# 2. Steps to run the model:
 <ol>
   
 <li>
@@ -19,7 +20,7 @@ pip install virtualenv
 </li>
 <li>
   
-  Now we create a new virtual environment named 'myenv'. 
+  Now we create a new virtual environment named 'myenv_for_ultralytics'. 
   ```bash
 python3 -m venv myenv_for_ultralytics
 ``` 
@@ -39,7 +40,7 @@ pip install ultralytics
 ```
 </li>
 <li>
-  To make sure the dependencies are installed we list the requirments.If the we see list of python libraries then we have successfully installed all requirments.
+  To make sure the dependencies are installed we list the requirments.If the we see list of python libraries, then we have successfully installed all requirments.
   
   ```bash
  pip list
@@ -61,7 +62,7 @@ python Test_yolo_model.py
   </li>
 </ol>
 
-## Why do we need virtual environment?
+## 3. Why do we need virtual environment?
 <p>
   The very basic approach to run a python program is to install all the dependencies or libraries via the terminal. Write all the code in one .py file and run the program. This is most common approach performed by every novice. This works great for the small python projects then , why do we need an environment? To answer this lets understand a scenario.
 </p>
@@ -69,7 +70,7 @@ python Test_yolo_model.py
   You are working on some project_A and you installed all the libraries, lets just say X_library_version_1.0 to your global python library. Now you switch to project_B which also requires libraries but different version , lets just say X_library_version_2.8. Now you execute the project_B successfully, but again if you try to execute project_A then you will face errors on dependencies/libraries. The only way to solve the issue is to create a seperate virtual environment for each project so that the dependencies do not alter. 
 </p>
 
-# Flow Diagram
+# 4. Flow Diagram
 ![image](https://github.com/Prathama-sanshi/Helmet-and-Vest-detection-using-Yolov8/assets/59955378/b6f7e175-c790-4532-8b2c-e94cdc89605c)
 
 
