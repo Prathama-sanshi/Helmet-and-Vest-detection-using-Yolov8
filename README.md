@@ -57,7 +57,8 @@ python Test_yolo_model.py
 </li>
   <li>
     Lastely to deactivate the environment we use this command.
-     ```bash
+    
+  ```bash
 ~deactivate
 ```
   </li>
@@ -72,7 +73,9 @@ python Test_yolo_model.py
 </p>
 
 # 4. Flow Diagram
-![image](https://github.com/Prathama-sanshi/Helmet-and-Vest-detection-using-Yolov8/assets/59955378/b6f7e175-c790-4532-8b2c-e94cdc89605c)
+
+![image](https://github.com/Prathama-sanshi/Helmet-and-Vest-detection-using-Yolov8/assets/59955378/9efccf93-9d8b-45b8-a21b-41e9ed05d420)
+
 
 
 ###### Resources :
