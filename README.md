@@ -69,6 +69,9 @@ python Test_yolo_model.py
   You are working on some project_A and you installed all the libraries, lets just say X_library_version_1.0 to your global python library. Now you switch to project_B which also requires libraries but different version , lets just say X_library_version_2.8. Now you execute the project_B successfully, but again if you try to execute project_A then you will face errors on dependencies/libraries. The only way to solve the issue is to create a seperate virtual environment for each project so that the dependencies do not alter. 
 </p>
 
+# Flow Diagram
+![image](https://github.com/Prathama-sanshi/Helmet-and-Vest-detection-using-Yolov8/assets/59955378/b6f7e175-c790-4532-8b2c-e94cdc89605c)
+
 
 ###### Resources :
 ###### For more information on Ultralytics check: https://github.com/ultralytics/ultralytics/blob/main/README.md
