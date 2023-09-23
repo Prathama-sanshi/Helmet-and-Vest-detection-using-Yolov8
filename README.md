@@ -37,7 +37,7 @@ pip install ultralytics
   Once the dependencies are installed, we activate the environment that we have created.
     
 ```bash
- env/Scripts/activate.bat //In CMD
+ env/Scripts/activate.bat
 ```
 </li>
 <li>
